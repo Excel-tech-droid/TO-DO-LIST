@@ -238,6 +238,7 @@ var UIController = (function () {
   };
 })();
 
+// Main Controller
 // GLOBAL APP CONTROLLER
 var controller = (function (taskCtrl, UICtrl) {
   var setupEventListeners = function () {
